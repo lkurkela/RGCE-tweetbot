@@ -1,0 +1,6 @@
+{
+  "server": "http://localhost:8080",
+  "users": [
+    { "fullname": "John Smith", "nickname": "jsmith", "password": "Passw0rd" }
+  ]
+}

@@ -1,0 +1,5 @@
+Faker==0.8.11
+gnusocial==4.0.0
+markovify==0.7.1
+spacy==2.0.9
+transliterate==1.10
